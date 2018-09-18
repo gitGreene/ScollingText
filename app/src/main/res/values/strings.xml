@@ -2,61 +2,14 @@
     <string name="app_name">ScollingText</string>
     <string name="article_title">Divided States of America</string>
     <string name="article_subtitle">Is America at Risk of Losing Its Soul?</string>
-    <string name="article_text">You feel it everyday. It is not a good feeling.
-        You have a deep distrust of major institutions. You cannot stand to hear some one mouth off about their political positions.
-        They are wrong anyways. The economy is apparently booming no raise has come my way in two years. My credit information has
-        most certainly been given away by Equifax. The companys stock is up by the way. Blantant nepotism at the FCC has all but assured
-        that my one hope for humanity, the internet, is on the verge of being controlled, throttled, censored, and sold. Racism has made a
-        comback and now is potentially a viable campaign strategy. It is cool to be hysterical, even about the little things.
-        Maybe I am feeding into that by writing this article. No. Wait. I had a point here. What was it again? Thats right.
-
-        The United States of America has only once been more divided than it is today. A Civil War was an important statement by the South.
-        We are going to keep our slaves. And if you want to stop us, you have to kill us. The Civil War had more casualties than both World Wars combined.
-        By some estimates, nearly 700,000 Americans lost their lives.
-
-        I would like to think we are past that kind of barbarity. After all, while all of those Americans died at the hands of another American,
-        citizens of this country banded together to fight in the others aforementioned. We held food drives, we rationed supplies,
-        women worked in factories for the first time ever, we sent our young and rosey-cheeked men AND women to fight a war worth fighting.
-        We won. We ended the life of a facist, bigotted, and murderous dictator who preached a sick ideology. Way more lost their lives at his
-        hands than the Civil War.
-
-        Well today, we see swastikas again. Our country is triggered. We now associates one of Americas greatest rivals with
-        a group of our own fellow countryman. Why this group would choose to associate with a murderous psycopath, I dont think I will ever
-        truly understand. I mean I know funamentally at its core it is a collective delusion. One that has this group say their
-        motivations are not strictly racist and xenophobic. But I can never truly understand their struggle. I can only shake my head
-        and thank whatever higher power there is that I am not filled with such hate.
-
-        Then there is the left
-
-        Then there is the trolls:
-        The media
-        The powerful companies
-        The governments
-        The sellers
-
-
-        There is nothing to fear.
-        The only fear worth having is a fear of fear.
-        Fear is the only thing you ever fear. When we are all deciding how to react
-        to a mass shooting, dont be afraid of what type of person it is
-        dont be afraid that this will continue, it wont. We will find a way
-        to end mass shootings. We will find a way to take the internet, the banking system, the education system
-        and most importantly our attention back. But we wont be able to achieve that if we are afraid of each other
-        We wont be able to do that if we are afraid of what we might become
-        We must charge into the future and say We are here, and we are nice, and we are here
-        to work things out. If we sense you have ill intentions, or your greed
-        will end up hurting more than it helps, than we will confront you. You will
-        have to justify your case to the people of this country.
-
-        Why is it beneficial for you to repeal Net Neutrality?
-        Why is it beneficial to bring back coal?
-        Why is it beneficial to the planet to continue manufacturing and consuming plastic?
-        Why?
-
-        If your answer is that it is cheaper, and better for your bottom line,
-        I urge you to consider a different way to conduct business.
-
-        www.codemaestro.co
-        </string>
+    <string name="article_text">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        \n\n
+        <b>"Lorem ipsum dolor sit amet</b>, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        \n\n
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        \n\n
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+</string>
+    <string name="add_comment_button">Add Comment</string>
 
 </resources>
